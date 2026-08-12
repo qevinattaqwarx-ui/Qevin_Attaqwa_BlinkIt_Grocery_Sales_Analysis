@@ -1,6 +1,6 @@
 # BlinkIT Grocery Sales Analysis
 
-## Data Analysis | Capstone Project
+## Data Analysis | Portfolio Project
 
 ### Project Overview
 
